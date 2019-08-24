@@ -1,4 +1,4 @@
-# Course Work
+# Java Applications
 
 ### Details
 
