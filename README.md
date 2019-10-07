@@ -1,4 +1,4 @@
-# Java Apps
+# :paperclip: Java Apps
 
 ### Description
 
